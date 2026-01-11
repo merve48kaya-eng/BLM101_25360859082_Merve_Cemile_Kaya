@@ -1,0 +1,2 @@
+# BLM101_25360859082_Merve_Cemile_Kaya
+BLM101_Bilgisayar Mühendisliğine Giriş-Veri Manipülasyonları ve Mantık Devreleri Projesi
